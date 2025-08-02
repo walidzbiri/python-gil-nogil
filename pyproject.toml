@@ -1,7 +1,7 @@
 [project]
 name = "test-no-gil"
 version = "0.1.0"
-description = "Add your description here"
+description = "Python GIL vs NO GIL benchmark"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = []
